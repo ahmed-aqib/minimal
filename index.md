@@ -2,7 +2,7 @@
 
 # Billing Chatbots
 
-Real-time information on various user queries
+Real-time information on various user queries.
 
 # Steam Injection
 
